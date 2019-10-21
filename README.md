@@ -6,9 +6,9 @@ Un sistema que registra los cambios realizados sobre un archivo o conjunto de ar
 
 Los tipos de sistemas de control son:
 
-- ** Local Computer: **Solo vive en nuestro computador.
-- **Centralizado: **No depende únicamente de un computador en el que se trabaja, sino que depende del súper servidor en donde se almacena la información. El servidor provee las copias a sus hijos, pero solo guarda los cambios en un solo lugar.
-- **Sistema de control distribuidos:** Cada uno de los que participan en el proyecto, tienen copia del proyecto que se realiza, por eso no dependemos de un solo computador que almacene toda la información.
+- ** Local Computer: ** Solo vive en nuestro computador.
+- ** Centralizado: ** No depende únicamente de un computador en el que se trabaja, sino que depende del súper servidor en donde se almacena la información. El servidor provee las copias a sus hijos, pero solo guarda los cambios en un solo lugar.
+- ** Sistema de control distribuidos:** Cada uno de los que participan en el proyecto, tienen copia del proyecto que se realiza, por eso no dependemos de un solo computador que almacene toda la información.
 
 Git es un Sistema de Control de Versiones Distribuido creado por *Linus Torvalds*  y se centró en:
 
