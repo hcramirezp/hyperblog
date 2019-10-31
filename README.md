@@ -1,6 +1,8 @@
 # hyperblog  
 Un blog increíble para el curso de Git y Github de Platzi.
 
+Creado por el increíble Platzi Team
+
 ## ¿Qué es un Sistema Control de Versiones?
 Un sistema que registra los cambios realizados sobre un archivo o conjunto de archivos a lo largo del tiempo. Este tipo de sistemas nos permiten volver en el tiempo y salvar nuestro trabajo.
 
